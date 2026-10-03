@@ -6,7 +6,7 @@ export const profile = {
   tagline:
     'BSIT student majoring in Web & App Development, building my way to Azure Solutions Architect, one project and one cert at a time.',
   // TODO: replace with your real links
-  github: 'https://github.com/your-username',
+    github: 'https://github.com/rhobearkinipac-cell',
   linkedin: 'https://www.linkedin.com/in/your-profile',
   email: 'you@example.com',
 }
@@ -84,7 +84,7 @@ export const projects = [
     desc: 'This site. React + Vite, auto-deployed to Azure Static Web Apps on every push through GitHub Actions.',
     tags: ['React', 'Vite', 'Static Web Apps', 'GitHub Actions'],
     status: 'live',
-    repo: 'https://github.com/your-username/cloud-journey',
+      repo: 'https://github.com/rhobearkinipac-cell/portfolio',
     demo: '',
   },
   {
